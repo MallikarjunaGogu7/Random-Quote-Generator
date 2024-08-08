@@ -1,0 +1,32 @@
+body{
+    padding: 50px 50px 0 50px;
+    margin: 50px 50px 0 50px;
+    background-color:#9acd32;
+
+    display:flex;
+    flex-flow: column nowrap ;
+    justify-content: center;
+    align-items:center;
+    height:50vh;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size:44px;
+    font-family:cursive;
+    font-style: italic;
+    color:purple;
+    margin-top: 20px;
+}
+
+button{
+    
+    padding: 30px;
+    width: auto;
+    font-size: 20px;
+    font-style: italic;
+}
+
+
